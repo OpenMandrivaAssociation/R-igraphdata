@@ -7,7 +7,7 @@ Release:          1
 Summary:          A collection of network data sets for the igraph package
 Group:            Sciences/Mathematics
 License:          CC BY-SA 2.0 + file LICENSE
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_0.1-1.tar.gz
 BuildArch:        noarch
 Requires:         R-core
